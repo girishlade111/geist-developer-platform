@@ -1,0 +1,6 @@
+{
+  "name": "Geist Developer Platform",
+  "description": "An engineering-grade developer platform showcase and interactive deployment playground embodying Vercel's Geist design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
