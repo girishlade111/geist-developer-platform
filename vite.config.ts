@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/geist-developer-platform/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
