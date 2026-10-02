@@ -333,3 +333,6 @@ MIT License - feel free to use for personal or commercial projects.
   <br />
   <sub>Powered by React 19, TypeScript, Vite, Express & Google Gemini AI</sub>
 </div>
+---
+
+**Built by Girish Lade** — <https://ladestack.in>
